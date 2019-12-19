@@ -1,0 +1,51 @@
+{
+    "name": "TourCMS Marketplace",
+    "description": "Web based reservation & distribution system for specialist tour operators & activity companies",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/501-tourcms-marketplace.jpg",
+    "tags": [
+        "bookings",
+        "have api",
+        "marketplaces",
+        "reservations",
+        "tour"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tourcms-marketplace\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TourCMS Marketplace",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/501-tourcms-marketplace.jpg",
+            "humanURL": "http:\/\/www.tourcms.com\/support\/api\/mp\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tourcms-marketplace-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tourcms-marketplace-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.tourcms.com\/support\/api\/mp\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/tourcms"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TourCMS"
+        }
+    ]
+}
